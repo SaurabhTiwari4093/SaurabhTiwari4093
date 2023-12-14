@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tiwari</h1>
 <h3 align="center">A passionate software developer proficient in full-stack development, with expertise in both frontend and backend technologies, dedicated to crafting innovative and scalable solutions.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 👨‍💻 All of my projects are available at [https://www.saurabh-tiwari.tech/](https://www.saurabh-tiwari.tech/)
 
 - 💬 Ask me about **Javascript, React, Next.js, Express.js etc**
@@ -10,8 +8,6 @@
 - 📫 How to reach me **saurabhtiwari4093@gmail.com**
 
 - 📄 Know about my experiences [https://www.saurabh-tiwari.tech/Saurabh_Tiwari_Resume.pdf](https://www.saurabh-tiwari.tech/Saurabh_Tiwari_Resume.pdf)
-
-- 💻 Coding Wizard by Day, Gadget Guru by Night **When the sun sets, my coding screen isn't the only thing lighting up. I'm known to have an unhealthy obsession with the latest tech gadgets.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
