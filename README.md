@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **saurabhtiwari4093@gmail.com**
 
-- 📄 Know about my experiences [https://www.saurabh-tiwari.tech/Saurabh_Tiwari_Resume.pdf](https://www.saurabh-tiwari.tech/Saurabh_Tiwari_Resume.pdf)
+- 📄 Know about my experiences [https://www.saurabh-tiwari.tech/Saurabh-Tiwari-Resume.pdf](https://www.saurabh-tiwari.tech/Saurabh-Tiwari-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
