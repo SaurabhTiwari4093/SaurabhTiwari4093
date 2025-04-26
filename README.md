@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **saurabhtiwari4093@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ia6CZecOkdnjWO0Sqf2fk8Vr5fLSUY23](https://drive.google.com/drive/folders/1ia6CZecOkdnjWO0Sqf2fk8Vr5fLSUY23)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17x9eeT9yBqHOojv7X_y0VsMsYlJHtK8T](https://drive.google.com/file/d/17x9eeT9yBqHOojv7X_y0VsMsYlJHtK8T)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
