@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tiwari</h1>
 <h3 align="center">A passionate software developer proficient in full-stack development, with expertise in both frontend and backend technologies, dedicated to crafting innovative and scalable solutions.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.saurabh-tiwari.tech/](https://www.saurabh-tiwari.tech/)
-
 - 💬 Ask me about **Javascript, React, Next.js, Express.js etc**
 
 - 📫 How to reach me **saurabhtiwari4093@gmail.com**
 
-- 📄 Know about my experiences [https://www.saurabh-tiwari.tech/Saurabh-Tiwari-Resume.pdf](https://www.saurabh-tiwari.tech/Saurabh-Tiwari-Resume.pdf)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ia6CZecOkdnjWO0Sqf2fk8Vr5fLSUY23](https://drive.google.com/drive/folders/1ia6CZecOkdnjWO0Sqf2fk8Vr5fLSUY23)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
